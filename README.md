@@ -1,3 +1,4 @@
+```js
 import { Temmy, Bio } from "portfolio"
 
 class AboutMe extends Temmy.Bio {
@@ -11,7 +12,7 @@ class AboutMe extends Temmy.Bio {
 		 ]
 	   )
      }
-
+     
     render (
       return (
 	 <div>
@@ -26,8 +27,7 @@ class AboutMe extends Temmy.Bio {
 }
 
 export default AboutMe
-
-
+```
 
 ### Hey y'all, I'm TEMMY! Since 2017, I've been living and breathing design. As of now, out here designing modern user interfaces and looking for partner to colaborate with me. 👋 
 Currently living in Japan 🇯🇵 and have an eligible visa (JP Spouse Visa) to be able to work in various fields of work. 
